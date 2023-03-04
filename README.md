@@ -116,6 +116,7 @@
 * compress 压缩 (重编码)
 * BLOB (binary large object) 二进制大对象
 * Bloom filter 布隆过滤器
+* random access 任意读写
 
 ## 数据结构
 
