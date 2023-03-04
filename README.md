@@ -188,3 +188,4 @@
 
 * general/generic 通用的
 * universal 通用的
+* concrete 具体的
