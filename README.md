@@ -122,6 +122,8 @@
 
 * graph 图 
 * vertex 顶点(图)
+* source 源点
+* sink 汇聚点
 * stack 栈 
 * heap 堆 
 * edge 边 
