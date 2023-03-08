@@ -182,6 +182,9 @@
 * connector 连接器
 * converter 转换器
 
+* SLA (service level agreement) 服务等级协议
+* CAP theorem (Consistency 一致性, Availability 可用性, Partition tolerance 分区容错性)
+
 * continuous integration 持续集成
 * continuous delivery 持续交付
 * continuous deployment 持续部署
