@@ -184,6 +184,7 @@
 
 * SLA (service level agreement) 服务等级协议
 * CAP theorem (Consistency 一致性, Availability 可用性, Partition tolerance 分区容错性)
+* HA (High Availability) 高可用
 
 * continuous integration 持续集成
 * continuous delivery 持续交付
@@ -194,3 +195,4 @@
 * general/generic 通用的
 * universal 通用的
 * concrete 具体的
+* reliable reliability
