@@ -117,6 +117,7 @@
 * BLOB (binary large object) 二进制大对象
 * Bloom filter 布隆过滤器
 * random access 任意读写
+* CDC (change data capture) 变更数据采集/捕获
 
 ## 数据结构
 
