@@ -193,6 +193,8 @@
 * continuous delivery 持续交付
 * continuous deployment 持续部署
 
+* agile development 敏捷开发
+
 ## 形容词
 
 * general/generic 通用的
