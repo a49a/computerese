@@ -182,6 +182,7 @@
 * filter 过滤器
 * connector 连接器
 * converter 转换器
+* interceptor 拦截器
 
 * SLA (service level agreement) 服务等级协议
 * CAP theorem (Consistency 一致性, Availability 可用性, Partition tolerance 分区容错性)
