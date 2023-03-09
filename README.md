@@ -168,6 +168,7 @@
 * cursor 游标
 * failover 故障转移
 * crash 瘫痪
+* vulnerability 漏洞(安全)
 * workaround/workspaces 工作区
 
 * framework 框(第四声)架
