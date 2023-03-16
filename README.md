@@ -83,6 +83,8 @@
 * synchronize synchronization 同步 
 * authentication 认证 
 * authorization 授权
+* multi-tenancy multitenancy 多租户
+
 
 ## 编译原理
 
